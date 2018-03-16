@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mrsdean1002/S.H.I.F.T./issues"
   },
-  "homepage": "https://github.com/mrsdean1002/S.H.I.F.T.#readme"
+  "homepage": "https://github.com/mrsdean1002/S.H.I.F.T.#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
